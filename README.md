@@ -1,6 +1,6 @@
 # Welcome to Student Details App!
 
-Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
+Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️.
 
 ## About Me
 
